@@ -35,6 +35,7 @@
 
 // module.exports = { sequelize, connectDB };
 
+// database.js
 const { Sequelize } = require("sequelize");
 const config = require("./config");
 
